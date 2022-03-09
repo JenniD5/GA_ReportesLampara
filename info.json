@@ -1,0 +1,11 @@
+{
+    "nombre": "Jenni",
+    "edad": 33,
+    "estudiante": false,
+    "direccion": {
+        "calle": "guerrero",
+        "numero": 139,
+        "colonia": "centro"
+    },
+    "materias": ["moviles", "mate"]
+}
